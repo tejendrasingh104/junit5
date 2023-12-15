@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Inline local variable &apos;com.learning.ReverseStringTest.test().r&apos; in &apos;com.learning.ReverseStringTest.test()&apos;&#x0D;&#x0A;- Original project: &apos;Junit-04&apos;&#x0D;&#x0A;- Original element: &apos;com.learning.ReverseStringTest.test().r&apos;" description="Inline local variable &apos;r&apos;" id="org.eclipse.jdt.ui.inline.temp" input="/test&lt;com.learning{ReverseStringTest.java" selection="285 0" stamp="1702657243297" version="1.0"/>
+</session>

@@ -1,0 +1,13 @@
+package com.learning;
+
+public class Shapes 
+{
+	public double areaSquare()
+	{
+		return 0;
+	}
+	public double areaCircle()
+	{
+		return 0;
+	}
+}

@@ -1,0 +1,19 @@
+package com.learning.first;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class CalcTest {
+
+	@Test
+	public void test() {
+		//System.out.println("first java unit test run");
+		Calc c = new Calc();
+		int actualValue = c.divide(10, 2);
+		int expectedValue = 5;
+		assertEquals(expectedValue, actualValue);
+		
+	}
+
+}

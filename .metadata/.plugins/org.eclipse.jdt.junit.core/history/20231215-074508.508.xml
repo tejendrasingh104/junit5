@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="ReverseStringTest (1)" project="Junit-03" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="com.learning.ReverseStringTest" time="0.0" displayname="ReverseStringTest" uniqueid="[engine:junit-jupiter]/[class:com.learning.ReverseStringTest]">
+    <testcase name="test" classname="com.learning.ReverseStringTest" time="0.0" displayname="test()" uniqueid="[engine:junit-jupiter]/[class:com.learning.ReverseStringTest]/[method:test()]"/>
+  </testsuite>
+</testrun>

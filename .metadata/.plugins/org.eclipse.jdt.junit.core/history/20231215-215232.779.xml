@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="ReverseStringTest (2)" project="Junit-04" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="com.learning.ReverseStringTest" time="0.015" displayname="ReverseStringTest" uniqueid="[engine:junit-jupiter]/[class:com.learning.ReverseStringTest]">
+    <testcase name="oneWordTest" classname="com.learning.ReverseStringTest" time="0.014" displayname="oneWordTest()" uniqueid="[engine:junit-jupiter]/[class:com.learning.ReverseStringTest]/[method:oneWordTest()]"/>
+    <testcase name="twoWordTest" classname="com.learning.ReverseStringTest" time="0.001" displayname="twoWordTest()" uniqueid="[engine:junit-jupiter]/[class:com.learning.ReverseStringTest]/[method:twoWordTest()]"/>
+  </testsuite>
+</testrun>
