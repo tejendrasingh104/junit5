@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="ShapesTest (1)" project="Junit-06" tests="2" started="2" failures="0" errors="0" ignored="0">
-  <testsuite name="com.learning.ShapesTest" time="0.0" displayname="ShapesTest" uniqueid="[engine:junit-jupiter]/[class:com.learning.ShapesTest]">
-    <testcase name="CircleareaTest" classname="com.learning.ShapesTest" time="0.0" displayname="CircleareaTest()" uniqueid="[engine:junit-jupiter]/[class:com.learning.ShapesTest]/[method:CircleareaTest()]"/>
-    <testcase name="SquareareaTest" classname="com.learning.ShapesTest" time="0.0" displayname="SquareareaTest()" uniqueid="[engine:junit-jupiter]/[class:com.learning.ShapesTest]/[method:SquareareaTest()]"/>
-  </testsuite>
-</testrun>
