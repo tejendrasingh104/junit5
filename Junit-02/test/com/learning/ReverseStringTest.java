@@ -6,10 +6,10 @@ import org.junit.Test;
 
 public class ReverseStringTest {
 
-	@Test
+	@Test(timeout=1)
 	public void test() {
 		ReverseString reverse = new ReverseString();
-		assertEquals("ardnejeT", reverse.reverseString("Tejendra"));
+		assertEquals("hgnisardnejeT", reverse.reverseString("Tejendrasingh"));
 	}
 
 }
